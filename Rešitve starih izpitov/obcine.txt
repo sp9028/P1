@@ -1,0 +1,7 @@
+Moravce, 5354, Osrednjeslovenska
+Ljubljana, 288832, Osrednjeslovenska
+Koper, 51828, Primorska
+Kocevje ob gozdu, 16549, Juznoslovenska
+Piran, 17613, Primorska
+1073, 50000, 1342
+Kamnik, 13768, Osrednjeslovenska

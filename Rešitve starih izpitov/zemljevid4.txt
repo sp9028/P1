@@ -1,0 +1,12 @@
+Piran: 23
+Nova Gabrovka nad Colom: 12
+Gabrovka: 15
+Nova Gorica: 55
+Gorica zahodno od kraja Nova Gorica: 55
+Col: 20
+Kanal: 9
+
+Piran: Nova Gabrovka nad Colom Nova Gorica
+Gabrovka: Gorica zahodno od kraja Nova Gorica Kanal Nova Gabrovka nad Colom
+Nova Gorica: Gabrovka Nova Gabrovka nad Colom
+Col: Nova Gabrovka nad Colom Gabrovka 

@@ -1,0 +1,4 @@
+Kamnik: 80
+Kocevje ob gozdu: 50
+1073: 100
+Ljubljana: 90

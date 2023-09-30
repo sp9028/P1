@@ -1,0 +1,13 @@
+Piran: 23
+Koper: 4
+Ilirska Bistrica: 440
+Postojna: 555
+Nova Gorica: 93
+Ribnica: 492
+Logatec: 481
+Cerknica: 559
+
+Logatec: Cerknica Postojna
+Postojna: Cerknica
+Ribnica: Cerknica
+Koper: Piran Postojna

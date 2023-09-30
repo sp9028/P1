@@ -1,0 +1,15 @@
+Bilje pri Novi Gorici	oblačno	9	9	997
+Celje	pretežno jasno	6	9	997
+Črnomelj		12	8	996
+Kredarica	delno oblačno	-8	15	728
+Letališče Cerklje ob Krki	pretežno jasno	9	13	996
+Letališče Edvarda Rusjana Maribor	pretežno jasno	9	12	996
+Letališče Jožeta Pučnika Ljubljana	megla	2	6	998
+Letališče Lesce		2	6	998
+Letališče Portorož	delno oblačno	8	19	998
+Ljubljana	megla v okolici	4	5	998
+Murska Sobota	zmerno oblačno	6	4	996
+Novo mesto	pretežno jasno	8	7	997
+Postojna		4	4
+Rateče	jasno	5	0	900
+Slovenj Gradec	pretežno jasno	5
